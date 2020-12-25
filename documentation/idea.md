@@ -9,4 +9,18 @@
 * Disadvantages:
   * Difficult to keep up
   * rooms cool down a lot [kfh20](sources.md)
-  
+
+## targets
+* Reduce virus load in indoor air
+    * Filter aerosols from the air or render viruses harmless
+* Mobile filter system (no built-in system)
+* Inexpensive to produce
+* Easy to operate
+* Little disturbing noise
+* Complete air filtration at least 3x per hour.
+* For different requirements: Classroom, office, tea kitchen, family event, ...
+    * After respective analysis, help at [time20](sources.md)
+* Despite air filter, do not underestimate risk of infection.
+
+
+
