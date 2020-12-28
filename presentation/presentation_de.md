@@ -305,4 +305,15 @@ Genutzten Quellen in [MWT20]:
 * http://doi.org/10.1101/2020.05.31.20118588
 -->
 
+---
+
+## Beteiligung/Ideen erwünscht
+
+* https://github.de/CTreffOS/air-filter
+* Mastodon
+    * @mschieder@osna.social
+    * @cyberto@osna.social
+* Twitter:
+    * @mschieder1
+    * @derCyberto
 
