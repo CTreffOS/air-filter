@@ -7,7 +7,7 @@ Look [here](/documentation/idea.md) for the idea behind this project.
 ![fan_12v](pictures/fan_12v.jpg)
 
 
-We gave a talk on this topic at rc3. The recording can be found ![here](https://media.ccc.de/v/rc3-583039-luftfilter_bauen). 
+We gave a talk on this topic at rc3. The recording can be found [here](https://media.ccc.de/v/rc3-583039-luftfilter_bauen). 
 
-![Miriam Busch](https://twitter.com/miphoni) drew this sketchnote about the talk:
+[Miriam Busch](https://twitter.com/miphoni) drew this sketchnote about the talk:
 ![sketchnote](pictures/sketchnote.jpg)
