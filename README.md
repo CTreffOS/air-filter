@@ -11,3 +11,9 @@ We gave a talk on this topic at rc3. The recording can be found [here](https://m
 
 [Miriam Busch](https://twitter.com/miphoni) drew this sketchnote about the talk:
 ![sketchnote](pictures/sketchnote.jpg)
+
+
+## Related Projects
+[Classroom Air Filter (de)](https://www.hackster.io/hhf/klassenzimmer-antivirus-raumluftfilter-4b0891) by [HHF](https://twitter.com/hhf) 
+
+[Customizable circular mobile HEPA room air filter](https://www.thingiverse.com/thing:4860712) by [Sebastian Ritterbusch](https://twitter.com/sritterbusch) 
